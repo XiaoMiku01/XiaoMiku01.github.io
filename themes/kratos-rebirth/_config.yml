@@ -200,7 +200,7 @@ jsconfig:
     main:
         cover:
             randomAmount: 12 # 表示从1~20
-            baseUrl: https://xiaomiku01.github.io/images # 使用默认值（不单独配置），将跟随 vendors 中的相关设定选择是否使用 cdn
+            baseUrl: https://xiaomiku01.github.io/images/thumb # 使用默认值（不单独配置），将跟随 vendors 中的相关设定选择是否使用 cdn
             filenameTemplate: "thumb_{no}.webp"
         createTime: "2022/12/08 00:00:00"
         donateBtn: "支持我~"
